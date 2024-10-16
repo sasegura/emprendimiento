@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/sergiosegura/Documents/React /emprendimiento/src/app/layout.tsx": [
+      "/Users/sergiosegura/Documents/React /emprendimiento/src/app/globals.css",
+      "/Users/sergiosegura/Documents/React /emprendimiento/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}"
+    ]
+  },
+  "cssModules": {
+    "/Users/sergiosegura/Documents/React /emprendimiento/src/app/page": [
+      "/Users/sergiosegura/Documents/React /emprendimiento/src/app/globals.css",
+      "/Users/sergiosegura/Documents/React /emprendimiento/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}"
+    ]
+  }
+}
