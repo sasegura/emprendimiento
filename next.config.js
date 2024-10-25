@@ -3,11 +3,14 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: "https",
-        hostname: "**",
+        protocol: 'https',
+        hostname: '**',
       },
     ],
   },
+  distDir: 'build',
+  output: 'export',
+  assetPrefix: './',
 };
 
 module.exports = nextConfig;
